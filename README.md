@@ -19,17 +19,17 @@ Features
 Legend
 ------
 
-H: Hero      
-m: Monster      
-Y: Tree      
-#: Out of Bounds      
-G: Merchant 
-V: Dragon Head 
-r: Dragon Body 
-=: Mount 
-`: Key 
-A: Helmet 
-%: Spell 
+H: Hero <br> 
+m: Monster     <br>  
+Y: Tree       <br>
+#: Out of Bounds  <br>
+G: Merchant  <br>
+V: Dragon Head  <br>
+r: Dragon Body  <br>
+=: Mount  <br>
+`: Key  <br>
+A: Helmet  <br>
+%: Spell  <br>
 C: Bow 
 W: Chest-plate 
 b: Potion 
