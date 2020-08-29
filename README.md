@@ -19,32 +19,43 @@ Features
 Legend
 ------
 
+## Units
 H: Hero <br> 
-m: Monster     <br>  
-Y: Tree       <br>
-#: Out of Bounds  <br>
+m: Monster <br>  
+&: Boss  
 G: Merchant  <br>
 V: Dragon Head  <br>
 r: Dragon Body  <br>
+
+## World Generation
+Y: Tree <br>
+#: Out of Bounds  <br>
+D: Chest <br>
 =: Mount  <br>
-`: Key  <br>
+
+## Armour
+
 A: Helmet  <br>
-%: Spell  <br>
-C: Bow 
 W: Chest-plate 
-b: Potion 
-!: Bat 
-Q: Cape 
-?: Axe 
-U: Gloves  
-I: Torch 
-&: Boss  
-*: Bomb 
 L: Pants 
-$: Magic Scroll 
-_: Time Bomb 
+Q: Cape 
+U: Gloves  
 F: Boots 
-D: Chest
+
+## Weapons
+
+C: Bow 
+!: Bat 
+?: Axe 
+
+## Consumables
+%: Spell  <br>
+$: Magic Scroll  <br>
+I: Torch  <br>
+b: Potion  <br>
+*: Bomb  <br>
+_: Time Bomb <br>
+`: Key  <br>
 
 
 Staff
