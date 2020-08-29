@@ -19,7 +19,7 @@ Features
 Legend
 ------
 
-## Units
+### Units
 H: Hero <br> 
 m: Monster <br>  
 &: Boss  
@@ -27,28 +27,28 @@ G: Merchant  <br>
 V: Dragon Head  <br>
 r: Dragon Body  <br>
 
-## World Generation
+### World Generation
 Y: Tree <br>
 #: Out of Bounds  <br>
 D: Chest <br>
 =: Mount  <br>
 
-## Armour
+### Armour
 
 A: Helmet  <br>
-W: Chest-plate 
-L: Pants 
-Q: Cape 
-U: Gloves  
-F: Boots 
+W: Chest-plate  <br>
+L: Pants  <br>
+Q: Cape  <br>
+U: Gloves   <br>
+F: Boots  <br>
 
-## Weapons
+### Weapons
 
-C: Bow 
-!: Bat 
-?: Axe 
+C: Bow  <br>
+!: Bat  <br>
+?: Axe  <br>
 
-## Consumables
+### Consumables
 %: Spell  <br>
 $: Magic Scroll  <br>
 I: Torch  <br>
@@ -66,6 +66,15 @@ Programmer : Joon Kang
 
 Mentor : Samil Chai
  
+ 
+Work Period
+-----------
+
+Start Date: 2015-07-20 
+
+
+End Date: 2016-01-30
+
 
 
 
