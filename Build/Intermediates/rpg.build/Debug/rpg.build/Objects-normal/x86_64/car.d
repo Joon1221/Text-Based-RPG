@@ -1,0 +1,8 @@
+dependencies: /Users/JoonKang/Documents/xcode/rpg/rpg/car.cpp \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/main.h \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/unit.h \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/hero.h \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/car.h \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/board.h \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/prop.h \
+  /Users/JoonKang/Documents/xcode/rpg/rpg/sim.h

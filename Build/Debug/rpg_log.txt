@@ -1,0 +1,5 @@
+      Time DistMoved  NumAtked  DmgTotal DmgAbsorb
+         1         0         0         0         0
+        51         6         6       270        30
+       101        21        12       540        60
+       151        43        18       810        90
