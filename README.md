@@ -14,6 +14,7 @@ Features
 - **Inventory** and **backpacks** for storing items.
 - **Random world layout** for a unique experience every play through.
 - **Spells**, **potions**, and **explodables** that can be bought from **merchants**.
+- Three gamemodes (**Custom level**, **Campaign**, and **Random Level**).
 
 	
 Legend
