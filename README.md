@@ -1,6 +1,6 @@
-# Text Based RPG
+# Text-based RPG
 
-A simple singleplayer text based RPG.
+A simple singleplayer text-based RPG.
 
 <p align="left">
   <img src="./assets/demo.gif" alt="Size Limit CLI" width="600">
